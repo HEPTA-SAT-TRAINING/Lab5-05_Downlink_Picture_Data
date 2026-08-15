@@ -15,4 +15,4 @@ Connect your HEPTA-SAT via USB after flashing the firmware, then open the URL be
 
 ## Firmware
 
-Open `Lab5-05_downlink_picture_data.ino` in the Arduino IDE and upload it to your board. For library and submodule setup, see [src/README.md](src/README.md).
+Open `Lab5-05_Downlink_Picture_Data.ino` in the Arduino IDE and upload it to your board. For library and submodule setup, see [src/README.md](src/README.md).
